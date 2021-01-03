@@ -9,7 +9,7 @@ This is my personal GitHub page that mostly involves personal projects in :
 * HTML 
 * CSS (very basic)
 
-##### How to reach me:
+#### How to reach me:
 * gary@dontblink.ca
 * linkedin.com/in/garykh
 * twitter.com/d0ntblinktweets
