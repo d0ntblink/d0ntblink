@@ -18,4 +18,4 @@ This is my personal GitHub page that mostly involves personal projects in :
 * [Spotify](https://open.spotify.com/user/22ttkhngi5b5j5lxmuppwiw7a)
 * [Letterboxed](https://letterboxd.com/d0ntblink/)
 
-Since the start 2021 I've decided to blog my journey in my [website](dontblink.ca) so feel free to check it, you might learn a thing or two.
+Since the start 2021 I've decided to blog my journey in my [website](https://dontblink.ca) so feel free to check it, you might learn a thing or two.
