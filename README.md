@@ -19,7 +19,7 @@ This is my personal GitHub page that mostly involves personal projects in :
 ![Twitter Follow](https://img.shields.io/twitter/follow/d0ntblinktweets?color=%23bd93f9&label=FOLLOW&logo=Twitter&style=for-the-badge)
 
 #### 📌 Do you want to get to know me better ?
-* [Website](https://d0ntbl.ink)
+* [Website🦉](https://d0ntbl.ink)
 * [Resume 📝](https://blog.d0ntbl.ink/resume)
 * [Spotify 🎧](https://open.spotify.com/user/22ttkhngi5b5j5lxmuppwiw7a)
 * [Letterboxed 🎥](https://letterboxd.com/d0ntblink/)
