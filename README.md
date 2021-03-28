@@ -13,6 +13,7 @@ This is my personal GitHub page that mostly involves personal projects in :
 * gary@dontblink.ca
 * linkedin.com/in/garykh
 * twitter.com/d0ntblinktweets
+* keybase.io/d0ntblink
 
 #### Socials
 ![Twitter Follow](https://img.shields.io/twitter/follow/d0ntblinktweets?color=%23bd93f9&label=FOLLOW&logo=Twitter&style=for-the-badge)
