@@ -25,3 +25,5 @@ This is my personal GitHub page that mostly involves personal projects in :
 * [Letterboxed 🎥](https://letterboxd.com/d0ntblink/)
 
 *Since the start 2021 I've decided to blog my journey in my [website](https://blog.d0ntbl.ink) so feel free to check it, you might learn a thing or two.*
+
+[![d0ntblink's GitHub stats](https://github-readme-stats.vercel.app/api?username=d0ntblink&theme=dracula&show_icons=ture)](https://github.com/anuraghazra/github-readme-stats)
