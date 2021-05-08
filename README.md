@@ -28,6 +28,4 @@ This is my personal GitHub page that mostly involves personal projects in :
 
 *Since the start 2021 I've decided to blog my journey in my [website](https://blog.d0ntbl.ink) so feel free to check it, you might learn a thing or two.*
 
-<a href="https://github.com/d0ntblink">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=d0ntblink&show_icons=true&include_all_commits=true&theme=dracula" alt="d0ntblink's github stats" />
-</a>
+![d0ntblink's GitHub stats]("https://github-readme-stats.anuraghazra1.vercel.app/api?username=d0ntblink&show_icons=true&include_all_commits=true&theme=dracula&hide=prs,issues")
