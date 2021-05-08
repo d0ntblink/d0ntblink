@@ -9,6 +9,8 @@ This is my personal GitHub page that mostly involves personal projects in :
 * HTML 
 * CSS (very basic)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0ntblink&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 #### 📧 How to reach me:
 * gary@dontblink.ca
 * linkedin.com/in/garykh
