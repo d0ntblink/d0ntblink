@@ -18,7 +18,7 @@ This is my personal GitHub page that mostly involves personal projects in :
 * keybase.io/d0ntblink
 
 #### Socials
-![Twitter Follow](https://img.shields.io/twitter/follow/d0ntblinktweets?color=%23bd93f9&label=FOLLOW&logo=Twitter&style=for-the-badge)
+[Quit social media | Dr. Cal Newport | TEDxTysons](https://www.youtube.com/watch?v=3E7hkPZ-HTk)
 
 #### 📌 Do you want to get to know me better ?
 * [Website🦉](https://d0ntbl.ink)
