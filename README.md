@@ -12,10 +12,9 @@ This is my personal GitHub page that mostly involves personal projects in :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0ntblink&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 📧 How to reach me:
-* gary@dontblink.ca
-* linkedin.com/in/garykh
-* twitter.com/d0ntblinktweets
-* keybase.io/d0ntblink
+* [gary@dontblink.ca](mailto:gary@dontblink.ca)
+* [linkedin.com/in/garykh](https://linkedin.com/in/garykh)
+* [keybase.io/d0ntblink](https://keybase.io/d0ntblink)
 
 #### Socials
 [Quit social media | Dr. Cal Newport | TEDxTysons](https://www.youtube.com/watch?v=3E7hkPZ-HTk)
