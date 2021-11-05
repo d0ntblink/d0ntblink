@@ -1,5 +1,4 @@
-### Hey there
-#### My name is Gary aka **d0ntblink**.
+#### **d0ntblink**.
 I'm curently trying to learn as much as I can to work my way into the InfoSec community.
 
 This is my personal GitHub page that mostly involves personal projects in :
