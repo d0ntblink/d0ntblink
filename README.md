@@ -24,6 +24,9 @@ This is my personal GitHub page that mostly involves personal projects in :
 * [Spotify 🎧](https://open.spotify.com/user/22ttkhngi5b5j5lxmuppwiw7a)
 * [Letterboxed 🎥](https://letterboxd.com/d0ntblink/)
 
+#### Beats
+[![Spotify](https://novatorem-e87j7kcl5.vercel.app/api/spotify)](https://open.spotify.com/user/22ttkhngi5b5j5lxmuppwiw7a)
+
 *Since the start 2021 I've decided to blog my journey in my [website](https://blog.d0ntbl.ink) so feel free to check it, you might learn a thing or two.*
 
 ![d0ntblink's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=d0ntblink&show_icons=true&include_all_commits=true&theme=dracula&hide=prs,issues)
